@@ -127,6 +127,7 @@
   .case-info {
     grid-template-rows: repeat(2, auto);
     grid-row-gap: 64px;
+    display: inline;
   }
 }
 .case-info__title {
@@ -388,4 +389,4 @@
   position: absolute;
   left: 33.1%;
   top: 1%;
-}
+}/*# sourceMappingURL=case.css.map */
